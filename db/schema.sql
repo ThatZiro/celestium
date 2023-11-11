@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS celestium_db;
+CREATE DATABASE celestium_db;
